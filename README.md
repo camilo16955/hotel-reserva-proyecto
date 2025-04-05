@@ -10,8 +10,11 @@ Repositorio para la Experiencia 2
 - `/configuracion`: Setup del entorno (Épica 0)
 - `/proyecto`: Estructura del sistema
 
-## Autor
+## Autores
 
 Camilo Bravo
+Jean Parra 
+Francisco Escobar
 
-Actualizar README
+
+
