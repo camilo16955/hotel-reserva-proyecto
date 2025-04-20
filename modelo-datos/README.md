@@ -30,8 +30,4 @@ Describe cómo interactúan los distintos procesos del sistema: consultas, pagos
 
 ---
 
-## 🔗 Relación con otras entregas
-
-Estos diagramas forman parte fundamental de las vistas de arquitectura del sistema y son requeridos según las **instrucciones específicas de la semana 5 y 6**.
-
- 
+## 
