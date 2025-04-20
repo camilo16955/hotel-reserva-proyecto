@@ -7,6 +7,6 @@ Estas imágenes representan los prototipos de las interfaces principales del sis
 - **login.png**: Pantalla de inicio de sesión para usuarios registrados.
 - **registro.png**: Formulario de registro de nuevos usuarios.
 - **reservas.png**: Interfaz principal donde el usuario puede buscar alojamientos y navegar por sus reservas.
-- ++salida.pmg++: interfaz de salida donde se aprecia un mensaje de despedida del hotel. 
+- **salida.png**: interfaz de salida donde se aprecia un mensaje de despedida del hotel. 
 
 Estas vistas cumplen con el objetivo de mostrar de forma clara las funcionalidades base de la plataforma.
