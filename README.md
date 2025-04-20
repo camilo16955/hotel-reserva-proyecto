@@ -9,6 +9,7 @@ Repositorio para la Experiencia 2
 - `/modelo-datos`: Modelo de base de datos
 - `/configuracion`: Setup del entorno (Épica 0)
 - `/proyecto`: Estructura del sistema
+- `/vista diseno`: Vistas de aplicacion
 
 ## Autores
 
