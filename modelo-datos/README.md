@@ -9,7 +9,7 @@ Esta carpeta contiene los diagramas que representan la estructura lógica del si
 ### 📌 Diagrama Lógico de Base de Datos
 Representa las relaciones entre entidades como Cliente, Reserva, Habitación y Pago. Define claves primarias y foráneas para establecer integridad referencial.
 
-**Archivo asociado:** `diagrama-logico.png` *(nombre referencial, ajustar según archivo real)*
+**Archivo asociado:** `diagrama-logico.png` 
 
 ---
 
